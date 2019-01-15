@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="JL_EFCore2\SamuraiApp.Data\SamuraiApp.Data.csproj" />
+    <None Include="JL_EFCore2\SamuraiApp.Domain\SamuraiApp.Domain.csproj" />
+    <None Include="JL_EFCore2\SamuraiCoreApp.sln" />
+    <None Include="JL_EFCore2\WebApp\WebApp.csproj" />
+    <None Include="KD_API_Core\CityInfo.API\CityInfo.API.csproj" />
+  </ItemGroup>
+
 </Project>
